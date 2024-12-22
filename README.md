@@ -1,4 +1,4 @@
-# Object-Relational-Mapping-with-the-SQLAlchemy-ORM
+# Veterinary Clinic Information Management and Registration System with PyQt5, SQLAlchemy, and SQLite
 ## Description:
 The project presents the development of a management system for a veterinary clinic,
 encompassing the administration of data related to owners, animals, appointments,
