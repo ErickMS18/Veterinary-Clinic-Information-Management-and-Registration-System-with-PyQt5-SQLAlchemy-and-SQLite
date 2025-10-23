@@ -1,21 +1,14 @@
-# Veterinary Clinic Information Management and Registration System with PyQt5, SQLAlchemy, and SQLite
-## Description:
-The project presents the development of a management system for a veterinary clinic,
-encompassing the administration of data related to owners, animals, appointments,
-vaccinations, veterinarians, and species. This system is the result of an applied study aimed at
-creating a practical solution for performing CRUD (create, read, update, and delete) operations
-on all the involved entities. The main objective of the project is to provide a tool that facilitates
-the control of important information, such as the names, addresses, and contact numbers of pet
-owners, as well as the data related to the animals themselves and the responsible veterinarians.
+# Sistema de Gerenciamento e Cadastro de Informações de Clínica Veterinária com PyQt5, SQLAlchemy e SQLite
+## Descrição:
 
-The methodology used includes the implementation of a SQLite database, integrated into the
-system through an object-relational mapping (ORM) using the SQLAlchemy library.
-Additionally, a graphical interface was developed with PyQt5, allowing for a more intuitive
-and accessible user interaction.
+O projeto apresenta o desenvolvimento de um sistema de gerenciamento para uma clínica veterinária, abrangendo a administração de dados relacionados a proprietários, animais, consultas, vacinas, veterinários e espécies.
+Este sistema é o resultado de um estudo aplicado com o objetivo de criar uma solução prática para realizar operações CRUD (Create, Read, Update e Delete) em todas as entidades envolvidas.
 
-With the interface, functionalities were implemented that allow users to easily select the records
-of owners and their respective animals, making the querying, updating, and deleting of data
-more efficient. The system, which offers an integrated and efficient management of the different
-entities, represents a robust and practical foundation, with the potential to enhance data
-management in the veterinary clinic.
+O principal objetivo do projeto é oferecer uma ferramenta que facilite o controle de informações importantes, como nomes, endereços e telefones dos tutores, além dos dados dos animais e dos veterinários responsáveis.
 
+A metodologia utilizada inclui a implementação de um banco de dados SQLite, integrado ao sistema por meio de um mapeamento objeto-relacional (ORM) utilizando a biblioteca SQLAlchemy.
+Além disso, foi desenvolvida uma interface gráfica com o PyQt5, permitindo uma interação mais intuitiva e acessível para o usuário.
+
+Com essa interface, foram implementadas funcionalidades que permitem selecionar facilmente os registros dos tutores e de seus respectivos animais, tornando as operações de consulta, atualização e exclusão de dados mais eficientes.
+
+O sistema, que oferece um gerenciamento integrado e eficaz das diferentes entidades, representa uma base sólida e prática, com potencial para otimizar o gerenciamento de dados dentro da clínica veterinária.
